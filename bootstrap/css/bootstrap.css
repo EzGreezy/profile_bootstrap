@@ -10230,6 +10230,9 @@ a.text-dark:hover, a.text-dark:focus {
 html{
   scroll-behavior: smooth;
 }
+body{
+  font-family: 'Raleway', sans-serif;
+}
 
 
 /*# sourceMappingURL=bootstrap.css.map */
