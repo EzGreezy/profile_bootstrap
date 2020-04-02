@@ -10224,5 +10224,8 @@ a.text-dark:hover, a.text-dark:focus {
 #lain{
   display: flex;
 }
+html{
+  scroll-behavior: smooth;
+}
 
 /*# sourceMappingURL=bootstrap.css.map */
