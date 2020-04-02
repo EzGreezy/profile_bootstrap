@@ -1,0 +1,81 @@
+html{
+	scroll-behavior: smooth;
+}
+body{
+	margin: 0;
+	padding: 0;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	background-color: black;
+}
+#nobody{
+	height: 60px;
+}
+ul{
+	margin: 0;
+	padding-top: 16px;
+	float: right;
+	padding-right: 24px;
+}
+nav{
+	width: 100%;
+	height: 60px;
+	padding: 0 16px;
+	background-color: black;
+	position: fixed;
+}
+nav img{
+	padding-top: 4px;
+}
+nav ul li a{
+	text-decoration: 0; /*agar tidak ada garis*/
+	color: white;
+}
+li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 0 8px;
+}
+section{
+	padding: 40px;
+}
+#Hero{
+	display: flex;
+}
+#info{
+	text-align: justify;
+	width: 50%;
+}
+#info p{
+	color: 'white';
+}
+#gambar{
+	width: 55%;
+}
+#gambar img{
+	padding-left: 80px;
+	width: 90%;
+	height: 90%
+}
+#lain{
+	text-align: justify;
+	display: flex;
+}
+#Keahlian{
+	width: 30%;
+}
+#space1{
+	width: 7%
+}
+#Tentang_saya{
+	width: 30%;
+}
+#space2{
+	width: 7%
+}
+#Kontak_saya{
+	width: 30%
+}
+#copyright{
+	text-align: justify;
+}
